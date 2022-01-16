@@ -1,0 +1,13 @@
+.bg {
+  background-image: url("../pictures/HeaderImg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover, contain;
+}
+
+.bg2 {
+  background-image: url("../pictures/Gradient.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
